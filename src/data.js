@@ -14,7 +14,7 @@ export const profile = {
   phone: "+91 84299 22350",
   phoneHref: "tel:+918429922350",
   linkedin: "https://www.linkedin.com/in/harsh-pandey-62ba7b167",
-  github: "", // add your GitHub URL here to show a GitHub link
+  github: "https://github.com/hp-pandey",
   location: "Bangalore, India",
   heroLine: ["I build backend systems that", "don't break", "under load."],
   lead:
